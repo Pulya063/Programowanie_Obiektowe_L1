@@ -3,5 +3,4 @@ Console.WriteLine("Hello, World!");
 int WindowHeight = 40;
 Console.WriteLine(WindowHeight);
 Console.WriteLine("This is a test.");
-Console.WriteLine(WindowHeight);
 Console.WriteLine("Goodbye, World!");
